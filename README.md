@@ -40,7 +40,7 @@ Esses dados permitem:
 - Rastreamento por proximidade
 - Cálculo de distância estimada pelo RSSI
 
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/660987c7-5f49-410e-95a6-1d0254767fca" />
+<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/660987c7-5f49-410e-95a6-1d0254767fca" />
 
 
 
@@ -61,7 +61,7 @@ Na simulação, o ESP32 substitui o Gateway físico, pois ele é capaz de:
 - Abrir o códig que está dentro da pasta Sketch/ no repositório
 - Fazer upload do código para a placa
 
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/e8f87d95-8c6a-4503-a21e-77b3fcec4f90" />
+<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/e8f87d95-8c6a-4503-a21e-77b3fcec4f90" />
 
 ---
 
