@@ -23,7 +23,8 @@ O ESP32 captura continuamente os sinais BLE e os envia para um script em Python,
 
 ## Sobre os Dispositivos
 
-**Beacon BLE**
+#### **Beacon BLE**
+
 O Beacon BLE é um pequeno transmissor que emite pacotes de dados em intervalos regulares. Ele normalmente é alimentado por uma bateria modelo CR2032 (3V) e possui baixa demanda energética.
 
 **O que o beacon faz**
@@ -44,7 +45,8 @@ Esses dados permitem:
 
 
 
-**ESP32 (fazendo o papel de Gateway)**
+#### **ESP32 (fazendo o papel de Gateway)**
+
 Na simulação, o ESP32 substitui o Gateway físico, pois ele é capaz de:
 - Escanear dispositivos BLE próximos
 - Detectar anúncios de Beacons
