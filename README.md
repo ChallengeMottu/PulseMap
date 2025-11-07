@@ -2,14 +2,14 @@
 
 ---
 
-## Entenda
+## 🗺️ Entenda
 O **Pulse** é um sistema inteligente de rastreamento e localização utilizando tecnologia **IoT**, composto por dispositivos **Beacon BLE** e **Gateways**.
 Por meio do envio de pacote de dados feito pelo Beacon, os Gateways são capazes de predizer localização por meio da força de sinal e triangularização.
 Logo, a associação de Beacons e Motos, permite a identificação das motos dentro das filiais e mapeamento em tempo real para monitoramento ativo por parte dos funcionários.
 
 ---
 
-## Simulação
+## 🔗 Simulação
 
 Este repositório contém uma simulação realista do fluxo Detecção → Mapeamento, demonstrando como funcionará o sistema final.
 
@@ -21,7 +21,7 @@ O ESP32 captura continuamente os sinais BLE e os envia para um script em Python,
 
 ---
 
-## Sobre os Dispositivos
+## 📡 Sobre os Dispositivos
 
 #### **Beacon BLE**
 
@@ -77,7 +77,7 @@ Beacon BLE  →  ESP32 (Gateway)  →  Python  →  Backend  →  API Java (pát
 
 ---
 
-## Estruture do repositório
+## 📦 Estrutura do repositório
 Uma visão geral dos diretórios principais:
 
 ```bash
@@ -93,10 +93,10 @@ Uma visão geral dos diretórios principais:
 ---
 
 
-## Executando etapas 
+## ▶️ Executando etapas 
 
 
-#### **Camada Python – Processamento Inicial**
+### **Camada Python – Processamento Inicial**
 
 Ao executar o sketch na Arduino IDE, o Esp32 agora recebeu um comando de instruções que ele fica executando enquanto estiver conectado na porta da máquina, configurada no código.
 
@@ -184,11 +184,12 @@ http://localhost:5173
 ```
 
 O resultado é um mapa interativo e atualizado em tempo real, totalmente integrado ao ecossistema IoT.
+
 **Resultado:** <img>
 
 ---
 
-## Grupo desenvolvedor
+## 👥 Grupo desenvolvedor
 - Gabriela de Sousa Reis - RM558830
 - Laura Amadeu Soares - RM556690
 - Raphael Lamaison Kim - RM557914
